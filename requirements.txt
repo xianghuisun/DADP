@@ -1,0 +1,7 @@
+data_preprocessing==0.0.2
+numpy==1.20.1
+scikit_learn==1.0.2
+torch==1.9.0
+tqdm==4.59.0
+transformers==4.2.0
+utils==1.0.1
